@@ -1,3 +1,5 @@
+This is a personal website attempt - i wrote this sentence.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rianashah/stanford_git_intro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
